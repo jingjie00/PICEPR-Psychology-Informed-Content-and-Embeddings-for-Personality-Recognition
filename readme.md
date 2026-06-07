@@ -93,3 +93,21 @@ The datasets used in this project include:
 ---
 ## Research Resources
 [https://research.jingjietan.com/?q=PICEPR](https://research.jingjietan.com/?q=PICEPR)
+
+## Cite
+```
+@article{Tan2026,
+  title = {Prompting-in-a-Series: Psychology-Informed Contents and Embeddings for Personality Recognition With Decoder-Only Models},
+  volume = {13},
+  issn = {2373-7476},
+  url = {http://dx.doi.org/10.1109/TCSS.2025.3593323},
+  doi = {10.1109/tcss.2025.3593323},
+  number = {1},
+  journal = {IEEE Transactions on Computational Social Systems},
+  publisher = {Institute of Electrical and Electronics Engineers (IEEE)},
+  author = {Tan, Jing Jie and Kwan, Ban-Hoe and Ng, Danny Wee-Kiat and Hum, Yan-Chai and Mokraoui, Anissa and Lo, Shih-Yu},
+  year = {2026},
+  month = Feb,
+  pages = {333–347},
+}
+```
